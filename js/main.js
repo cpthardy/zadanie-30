@@ -1,2 +1,2 @@
-var x = document.querySelector(p);
-console.log(x)
+var x = document.querySelector("p");
+x.innerHTML = ("JavaScript jest super!")
